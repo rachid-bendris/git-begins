@@ -3,3 +3,5 @@ cloner git-beguinssur terminal : https://github.com/rachid-bendris/git-begins.gi
 git add git-begins
 git commands -m “commentaire”
 git push
+
+git pull
