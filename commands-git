@@ -1,0 +1,5 @@
+cloner git-beguinssur terminal : https://github.com/rachid-bendris/git-begins.git
+
+git add git-begins
+git commands -m “commentaire”
+git push
